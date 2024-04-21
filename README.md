@@ -8,7 +8,7 @@ web application that will aid the administrate with visual display of their own 
 planning with sustainable development utilising satellite imagery to detect trees within a specified 
 area and estimates the potential carbon absorption of that tree cover.
 
-# !!!!Only JPEG OR JPG Images are allowed!!!!
+## Only JPEG OR JPG Images are allowed!
 
 ## Description
 
