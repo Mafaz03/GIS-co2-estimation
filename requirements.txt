@@ -1,0 +1,6 @@
+torchvision==0.15.2
+torch==2.0.1
+ultralytics==8.0.192
+flask==2.3.3
+matplotlib==3.8.4
+flask==2.3.2
