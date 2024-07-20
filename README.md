@@ -1,6 +1,3 @@
-# SustainaVerse
-**Product Developed for CresCon 2024 Hackathon** 
-
 # Project Title
 
 This document provides user and developer insight into the Tree Carbon Absorption Estimation 
